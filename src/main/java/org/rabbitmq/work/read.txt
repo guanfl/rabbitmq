@@ -1,0 +1,4 @@
+一个生产者多个消费者模型
+producer---->consumer1
+	    ----->consumer3
+	    ----->consumer2
